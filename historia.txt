@@ -1,5 +1,5 @@
 Hola, este es mi primer archivo.
 Walberto Roblero Hernandez
 Curso de Git y GitHub
-29 de mayo del 2022
-tengo 34 años
+16 de junio del 2022
+tengo 34 años y sumando
